@@ -56,3 +56,9 @@ From planning to production, bring teams together in one application. Ship secur
 Meeting Details
 Master /Maintainer - 
 User Name: Shyam-Photon/ Photon PoC email ids: Shyam.su1@photon.com
+
+Installation steps
+1) npm install
+2) npm run dev (for starting the server)
+3) UI will load in http://localhost:5173 url
+4) npm run test or npm run test:coverage for running test cases
